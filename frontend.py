@@ -50,7 +50,7 @@ def clear_text():
 
 window=Tk()
 
-window.wm_title("Manufacturing Tools Management By Sourabh Antarkar")
+window.wm_title("Manufacturing Tools Management By Anuradha Harale")
 window.configure(bg="Black")
 l1=Label(window,text="TOOL_NAME",bg="Black",fg="white", font = ('Comic Sans MS',16))
 l1.grid(row=0,column=0)
